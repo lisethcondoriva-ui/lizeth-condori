@@ -1,2 +1,2 @@
 # lizeth-condori
-Mi curriculum
+descripcion:
