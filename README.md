@@ -7,6 +7,5 @@ Durante mi formación he adquirido conocimientos en Python, desarrollando habili
 Datos de contacto:
 
 Teléfono:+56 9 9030 5674
-
 Correo electrónico:liseth.condori.va@liceoavb.cl
 Ciudad: Arica, Chile
